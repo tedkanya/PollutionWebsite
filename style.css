@@ -25,4 +25,11 @@ li {
 
 footer {
 	padding-top: 100px;
-}	
+}
+
+a:visited {
+	color: #40e0d0;
+}
+	
+
+	
